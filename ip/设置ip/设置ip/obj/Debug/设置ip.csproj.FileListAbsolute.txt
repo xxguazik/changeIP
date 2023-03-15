@@ -1,0 +1,10 @@
+C:\Users\guazik\Desktop\ip\设置ip\设置ip\bin\Debug\设置ip.exe.config
+C:\Users\guazik\Desktop\ip\设置ip\设置ip\bin\Debug\设置ip.exe
+C:\Users\guazik\Desktop\ip\设置ip\设置ip\bin\Debug\设置ip.pdb
+C:\Users\guazik\Desktop\ip\设置ip\设置ip\obj\Debug\设置ip.csprojAssemblyReference.cache
+C:\Users\guazik\Desktop\ip\设置ip\设置ip\obj\Debug\设置ip.Form1.resources
+C:\Users\guazik\Desktop\ip\设置ip\设置ip\obj\Debug\设置ip.Properties.Resources.resources
+C:\Users\guazik\Desktop\ip\设置ip\设置ip\obj\Debug\设置ip.csproj.GenerateResource.cache
+C:\Users\guazik\Desktop\ip\设置ip\设置ip\obj\Debug\设置ip.csproj.CoreCompileInputs.cache
+C:\Users\guazik\Desktop\ip\设置ip\设置ip\obj\Debug\设置ip.exe
+C:\Users\guazik\Desktop\ip\设置ip\设置ip\obj\Debug\设置ip.pdb
